@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=nagpalvarun&color=blue&style=flat-square&label=Views)
+<!-- ![](https://komarev.com/ghpvc/?username=nagpalvarun&color=blue&style=flat-square&label=Views) -->
 <div>
   <h1 align='center'>Hey there , I am Varun Nagpal <br>
     <a href="https://www.credly.com/badges/f893d81a-f4d9-4352-a99b-c5bfe7a82917/public_url"> <img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE8%20Programmer-red?style=flat-square&logo=oracle&logoColor=red"/></a> &nbsp;
